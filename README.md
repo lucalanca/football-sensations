@@ -10,6 +10,7 @@ Football Sensations
 - [ ] Deal with pagination
 - [ ] Stop script once matches start to repeat
 - [ ] Deal with live or soon-to-be-live matches
+- [ ] Refactor this "hackery" shit
 
 ## Backend/Frontend:
 
