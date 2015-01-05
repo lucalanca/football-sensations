@@ -7,10 +7,14 @@ Football Sensations
 - [x] Ok Goals
 - [x] Goals Tv
 - [ ] FootyRoom
+- [ ] Deal with pagination
+- [ ] Stop script once matches start to repeat
+- [ ] Deal with live or soon-to-be-live matches
 
 ## Backend/Frontend:
 
 - [ ] Define basic UML structure
+- [ ] "Connect" scripts with ActiveRecord
 
 # Backend
 
