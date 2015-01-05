@@ -1,0 +1,891 @@
+---
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/tottenham-hotspur-vs-chelsea-2
+  :date: 01 January 2015
+  :time: '17:30'
+  :week: Week 20
+  :home:
+    :name: Tottenham Hotspur
+    :form: wdwww
+  :away:
+    :name: Chelsea
+    :form: ldwww
+  :result: 5 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219571'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219571/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/queens-park-rangers-vs-swansea-city
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Queens Park Rangers
+    :form: ddlwl
+  :away:
+    :name: Swansea City
+    :form: dlwwl
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219186'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219186/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/west-ham-united-vs-west-bromwich-albion-3
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: West Ham United
+    :form: dllwd
+  :away:
+    :name: West Bromwich Albion
+    :form: dlllw
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3218997'
+      :video_config: http://config.playwire.com/14907/videos/v2/3218997/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/aston-villa-vs-crystal-palace-2
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Aston Villa
+    :form: ddldl
+  :away:
+    :name: Crystal Palace
+    :form: ddlld
+  :result: 0 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219633'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219633/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/hull-city-vs-everton-2
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Hull City
+    :form: wlwll
+  :away:
+    :name: Everton
+    :form: llllw
+  :result: 2 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219046'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219046/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/newcastle-united-vs-burnley
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Newcastle United
+    :form: dwlll
+  :away:
+    :name: Burnley
+    :form: ddllw
+  :result: 3 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219624'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219624/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/manchester-city-vs-sunderland-3
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Manchester City
+    :form: wdwww
+  :away:
+    :name: Sunderland
+    :form: ldlwd
+  :result: 3 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219621'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219621/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/liverpool-vs-leicester-city
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Liverpool
+    :form: dwwdw
+  :away:
+    :name: Leicester City
+    :form: dwlll
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3219623'
+      :video_config: http://config.playwire.com/14907/videos/v2/3219623/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/southampton-vs-arsenal-3
+  :date: 01 January 2015
+  :time: '15:00'
+  :week: Week 20
+  :home:
+    :name: Southampton
+    :form: wdwwl
+  :away:
+    :name: Arsenal
+    :form: lwwdw
+  :result: 2 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3218853'
+      :video_config: http://config.playwire.com/14907/videos/v2/3218853/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/stoke-city-vs-manchester-united-4
+  :date: 01 January 2015
+  :time: '12:45'
+  :week: Week 20
+  :home:
+    :name: Stoke City
+    :form: dwwld
+  :away:
+    :name: Manchester United
+    :form: ddwdw
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3217813'
+      :video_config: http://config.playwire.com/14907/videos/v2/3217813/player.json
+- :league: Club Friendlies
+  :url: http://livefootballvideo.com/highlights/world/club-friendlies/psg-vs-internazionale
+  :date: 30 December 2014
+  :time: '19:00'
+  :week: ''
+  :home:
+    :name: PSG
+    :form: wdwll
+  :away:
+    :name: Internazionale
+    :form: ldwdl
+  :result: 1 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3214480'
+      :video_config: http://config.playwire.com/14907/videos/v2/3214480/player.json
+- :league: Club Friendlies
+  :url: http://livefootballvideo.com/highlights/world/club-friendlies/real-madrid-vs-ac-milan
+  :date: 30 December 2014
+  :time: '16:00'
+  :week: ''
+  :home:
+    :name: Real Madrid
+    :form: lwwww
+  :away:
+    :name: AC Milan
+    :form: wdwlw
+  :result: 2 - 4
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3214108'
+      :video_config: http://config.playwire.com/14907/videos/v2/3214108/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/liverpool-vs-swansea-city-4
+  :date: 29 December 2014
+  :time: '20:00'
+  :week: Week 19
+  :home:
+    :name: Liverpool
+    :form: wdwld
+  :away:
+    :name: Swansea City
+    :form: wwllw
+  :result: 4 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3211714'
+      :video_config: http://config.playwire.com/14907/videos/v2/3211697/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/newcastle-united-vs-everton-2
+  :date: 28 December 2014
+  :time: '16:15'
+  :week: Week 19
+  :home:
+    :name: Newcastle United
+    :form: wllll
+  :away:
+    :name: Everton
+    :form: lllwl
+  :result: 3 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208799'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208799/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/queens-park-rangers-vs-crystal-palace
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: Queens Park Rangers
+    :form: dlwlw
+  :away:
+    :name: Crystal Palace
+    :form: dlldd
+  :result: 0 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208816'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208816/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/aston-villa-vs-sunderland-3
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: Aston Villa
+    :form: dldlw
+  :away:
+    :name: Sunderland
+    :form: dlwdd
+  :result: 0 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208664'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208664/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/hull-city-vs-leicester-city
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: Hull City
+    :form: lwlld
+  :away:
+    :name: Leicester City
+    :form: wllll
+  :result: 0 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208637'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208637/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/stoke-city-vs-west-bromwich-albion-3
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: Stoke City
+    :form: wwldw
+  :away:
+    :name: West Bromwich Albion
+    :form: lllwd
+  :result: 2 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208559'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208559/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/west-ham-united-vs-arsenal-2
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: West Ham United
+    :form: llwdw
+  :away:
+    :name: Arsenal
+    :form: wwdww
+  :result: 1 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208494'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208494/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/manchester-city-vs-burnley
+  :date: 28 December 2014
+  :time: '15:00'
+  :week: Week 19
+  :home:
+    :name: Manchester City
+    :form: dwwww
+  :away:
+    :name: Burnley
+    :form: dllwl
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208679'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208679/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/southampton-vs-chelsea-4
+  :date: 28 December 2014
+  :time: '14:05'
+  :week: Week 19
+  :home:
+    :name: Southampton
+    :form: wwlll
+  :away:
+    :name: Chelsea
+    :form: wwwww
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3208055'
+      :video_config: http://config.playwire.com/14907/videos/v2/3208055/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/tottenham-hotspur-vs-manchester-united-3
+  :date: 28 December 2014
+  :time: '12:00'
+  :week: Week 19
+  :home:
+    :name: Tottenham Hotspur
+    :form: wwwwl
+  :away:
+    :name: Manchester United
+    :form: wdwww
+  :result: 0 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3207779'
+      :video_config: http://config.playwire.com/14907/videos/v2/3207779/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/arsenal-vs-queens-park-rangers
+  :date: 26 December 2014
+  :time: '17:30'
+  :week: Week 18
+  :home:
+    :name: Arsenal
+    :form: wdwwl
+  :away:
+    :name: Queens Park Rangers
+    :form: lwlwl
+  :result: 2 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3205429'
+      :video_config: http://config.playwire.com/14907/videos/v2/3205429/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/sunderland-vs-hull-city-2
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Sunderland
+    :form: lwddl
+  :away:
+    :name: Hull City
+    :form: wlldd
+  :result: 1 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3205033'
+      :video_config: http://config.playwire.com/14907/videos/v2/3205033/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/swansea-city-vs-aston-villa-3
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Swansea City
+    :form: wwllw
+  :away:
+    :name: Aston Villa
+    :form: ldlww
+  :result: 1 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3204338'
+      :video_config: http://config.playwire.com/14907/videos/v2/3204338/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/crystal-palace-vs-southampton-2
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Crystal Palace
+    :form: llddl
+  :away:
+    :name: Southampton
+    :form: wwlll
+  :result: 1 - 3
+  :highlight_video: 
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/leicester-city-vs-tottenham-hotspur
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Leicester City
+    :form: lllll
+  :away:
+    :name: Tottenham Hotspur
+    :form: wwwwl
+  :result: 1 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3204735'
+      :video_config: http://config.playwire.com/14907/videos/v2/3204735/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/west-bromwich-albion-vs-manchester-city-2
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: West Bromwich Albion
+    :form: llwdl
+  :away:
+    :name: Manchester City
+    :form: wwwww
+  :result: 1 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3204769'
+      :video_config: http://config.playwire.com/14907/videos/v2/3204769/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/burnley-vs-liverpool
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Burnley
+    :form: llwld
+  :away:
+    :name: Liverpool
+    :form: wdwld
+  :result: 0 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3204594'
+      :video_config: http://config.playwire.com/14907/videos/v2/3204594/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/manchester-united-vs-newcastle-united-3
+  :date: 26 December 2014
+  :time: '15:00'
+  :week: Week 18
+  :home:
+    :name: Manchester United
+    :form: wdwww
+  :away:
+    :name: Newcastle United
+    :form: llllw
+  :result: 3 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3207805'
+      :video_config: http://config.playwire.com/14907/videos/v2/3207805/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/chelsea-vs-west-ham-united-3
+  :date: 26 December 2014
+  :time: '12:45'
+  :week: Week 18
+  :home:
+    :name: Chelsea
+    :form: wwwww
+  :away:
+    :name: West Ham United
+    :form: lwdww
+  :result: 2 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3203412'
+      :video_config: http://config.playwire.com/14907/videos/v2/3203412/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/stoke-city-vs-chelsea-3
+  :date: 22 December 2014
+  :time: '20:00'
+  :week: Week 17
+  :home:
+    :name: Stoke City
+    :form: ldwll
+  :away:
+    :name: Chelsea
+    :form: wwwwl
+  :result: 0 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3193609'
+      :video_config: http://config.playwire.com/14907/videos/v2/3193609/player.json
+- :league: Supercoppa
+  :url: http://livefootballvideo.com/highlights/italy/supercoppa/juventus-vs-napoli-2
+  :date: 22 December 2014
+  :time: '17:30'
+  :week: Final
+  :home:
+    :name: Juventus
+    :form: lwddd
+  :away:
+    :name: Napoli
+    :form: wwlwd
+  :result: 2 - 2P
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3193568'
+      :video_config: http://config.playwire.com/14907/videos/v2/3193502/player.json
+- :league: La Liga
+  :url: http://livefootballvideo.com/highlights/spain/la-liga/athletic-club-vs-atletico-madrid-4
+  :date: 21 December 2014
+  :time: '20:00'
+  :week: Week 16
+  :home:
+    :name: Athletic Club
+    :form: lwdwl
+  :away:
+    :name: Atletico Madrid
+    :form: wdldw
+  :result: 1 - 4
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190739'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190739/player.json
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/internazionale-vs-lazio-3
+  :date: 21 December 2014
+  :time: '19:45'
+  :week: Week 16
+  :home:
+    :name: Internazionale
+    :form: dwdll
+  :away:
+    :name: Lazio
+    :form: dwwwd
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190730'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190730/player.json
+- :league: La Liga
+  :url: http://livefootballvideo.com/highlights/spain/la-liga/elche-vs-malaga-2
+  :date: 21 December 2014
+  :time: '18:00'
+  :week: Week 16
+  :home:
+    :name: Elche
+    :form: lwlld
+  :away:
+    :name: Malaga
+    :form: wwwwd
+  :result: 1 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190656'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190656/player.json
+- :league: Primeira Liga
+  :url: http://livefootballvideo.com/highlights/portugal/primeira-liga/benfica-vs-gil-vicente-4
+  :date: 21 December 2014
+  :time: '17:00'
+  :week: Week 14
+  :home:
+    :name: Benfica
+    :form: wlwdw
+  :away:
+    :name: Gil Vicente
+    :form: lwddd
+  :result: 1 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190637'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190637/player.json
+- :league: Bundesliga
+  :url: http://livefootballvideo.com/highlights/germany/bundesliga/freiburg-vs-hannover-96-3
+  :date: 21 December 2014
+  :time: '16:30'
+  :week: Week 17
+  :home:
+    :name: Freiburg
+    :form: dlddl
+  :away:
+    :name: Hannover 96
+    :form: dwdll
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190606'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190606/player.json
+- :league: La Liga
+  :url: http://livefootballvideo.com/highlights/spain/la-liga/granada-vs-getafe-3
+  :date: 21 December 2014
+  :time: '16:00'
+  :week: Week 16
+  :home:
+    :name: Granada
+    :form: ddldw
+  :away:
+    :name: Getafe
+    :form: dwddw
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190517'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190517/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/liverpool-vs-arsenal-2
+  :date: 21 December 2014
+  :time: '16:00'
+  :week: Week 17
+  :home:
+    :name: Liverpool
+    :form: dwldd
+  :away:
+    :name: Arsenal
+    :form: dwwlw
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190475'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190475/player.json
+- :league: Bundesliga
+  :url: http://livefootballvideo.com/highlights/germany/bundesliga/hertha-bsc-vs-hoffenheim-2
+  :date: 21 December 2014
+  :time: '14:30'
+  :week: Week 17
+  :home:
+    :name: Hertha BSC
+    :form: ldwll
+  :away:
+    :name: Hoffenheim
+    :form: wlwlw
+  :result: 0 - 5
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190038'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190038/player.json
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/torino-vs-genoa-2
+  :date: 21 December 2014
+  :time: '14:00'
+  :week: Week 16
+  :home:
+    :name: Torino
+    :form: wdwdl
+  :away:
+    :name: Genoa
+    :form: llwlw
+  :result: 2 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189968'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189968/player.json
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/atalanta-vs-palermo
+  :date: 21 December 2014
+  :time: '14:00'
+  :week: Week 16
+  :home:
+    :name: Atalanta
+    :form: dlwwd
+  :away:
+    :name: Palermo
+    :form: dwdwd
+  :result: 3 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189971'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189971/player.json
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/sampdoria-vs-udinese-2
+  :date: 21 December 2014
+  :time: '14:00'
+  :week: Week 16
+  :home:
+    :name: Sampdoria
+    :form: ddwwd
+  :away:
+    :name: Udinese
+    :form: dlwwl
+  :result: 2 - 2
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189940'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189940/player.json
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/fiorentina-vs-empoli
+  :date: 21 December 2014
+  :time: '14:00'
+  :week: Week 16
+  :home:
+    :name: Fiorentina
+    :form: dwldw
+  :away:
+    :name: Empoli
+    :form: dddwd
+  :result: 1 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189991'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189991/player.json
+- :league: Premier League
+  :url: http://livefootballvideo.com/highlights/england/premier-league/newcastle-united-vs-sunderland-3
+  :date: 21 December 2014
+  :time: '13:30'
+  :week: Week 17
+  :home:
+    :name: Newcastle United
+    :form: lllwd
+  :away:
+    :name: Sunderland
+    :form: wddld
+  :result: 0 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3190603'
+      :video_config: http://config.playwire.com/14907/videos/v2/3190603/player.json
+- :league: Ligue 1
+  :url: http://livefootballvideo.com/highlights/france/ligue-1/olympique-marseille-vs-lille
+  :date: 21 December 2014
+  :time: '13:00'
+  :week: Week 19
+  :home:
+    :name: Olympique Marseille
+    :form: wlwdw
+  :away:
+    :name: Lille
+    :form: lwwld
+  :result: 2 - 1
+  :highlight_video: 
+- :league: Serie A
+  :url: http://livefootballvideo.com/highlights/italy/serie-a/hellas-verona-vs-chievo-2
+  :date: 21 December 2014
+  :time: '11:30'
+  :week: Week 16
+  :home:
+    :name: Hellas Verona
+    :form: lwlwl
+  :away:
+    :name: Chievo
+    :form: wlwdd
+  :result: 0 - 1
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189696'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189696/player.json
+- :league: La Liga
+  :url: http://livefootballvideo.com/highlights/spain/la-liga/villarreal-vs-deportivo-la-coruna
+  :date: 21 December 2014
+  :time: '11:00'
+  :week: Week 16
+  :home:
+    :name: Villarreal
+    :form: wwwww
+  :away:
+    :name: Deportivo La Coruna
+    :form: llwld
+  :result: 3 - 0
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189462'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189462/player.json
+- :league: La Liga
+  :url: http://livefootballvideo.com/highlights/spain/la-liga/rayo-vallecano-vs-espanyol-3
+  :date: 20 December 2014
+  :time: '21:00'
+  :week: Week 16
+  :home:
+    :name: Rayo Vallecano
+    :form: ldlll
+  :away:
+    :name: Espanyol
+    :form: wwwlw
+  :result: 1 - 3
+  :highlight_video:
+    :type: playwire
+    :data:
+      :publisher_id: '14907'
+      :video_id: '3189086'
+      :video_config: http://config.playwire.com/14907/videos/v2/3189086/player.json

@@ -1,0 +1,289 @@
+---
+- :url: http://goalstv.net/?pg=game&code=94
+  :date: '2015-01-04'
+  :time: '19:15'
+  :home:
+    :name: Penafiel
+  :away:
+    :name: SL Benfica
+  :stadium: Estádio Municipal 25 de Abril
+  :result: 0-3
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/MPSzE0gorruOu7uMfTf6/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=93
+  :date: '2015-01-04'
+  :time: '17:00'
+  :home:
+    :name: V. Guimarães
+  :away:
+    :name: Nacional
+  :stadium: Estádio D. Afonso Henriques
+  :result: 4-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/JFNQWgEYsJzymuE4lup7/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=91
+  :date: '2015-01-04'
+  :time: '16:00'
+  :home:
+    :name: Boavista
+  :away:
+    :name: Arouca
+  :stadium: Estádio do Bessa - Século XXI
+  :result: 3-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/ReZQbkHBqk08lNzrIEN1/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=92
+  :date: '2015-01-04'
+  :time: '16:00'
+  :home:
+    :name: V. Setúbal
+  :away:
+    :name: Moreirense
+  :stadium: Estádio do Bonfim
+  :result: 2-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: ''
+- :url: http://goalstv.net/?pg=game&code=90
+  :date: '2015-01-03'
+  :time: '20:15'
+  :home:
+    :name: Gil Vicente
+  :away:
+    :name: FC Porto
+  :stadium: Estádio Cidade de Barcelos
+  :result: 1-5
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/uRGCgyVzjvz1lTtp2lyb/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=89
+  :date: '2015-01-03'
+  :time: '18:00'
+  :home:
+    :name: Sporting CP
+  :away:
+    :name: Estoril
+  :stadium: Estádio José Avalade
+  :result: 3-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/CVmJgResepYgh54P6HNo/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=87
+  :date: '2015-01-03'
+  :time: '16:00'
+  :home:
+    :name: Paços de Ferreira
+  :away:
+    :name: Rio Ave
+  :stadium: Estádio da Mata Real
+  :result: 1-2
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/umyiKHA1ZZEG8AEStEl1/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=88
+  :date: '2015-01-03'
+  :time: '16:00'
+  :home:
+    :name: Marítimo
+  :away:
+    :name: Braga
+  :stadium: Estádio dos Barreiros
+  :result: 2-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://maritimo.youon.tv/embed/NF82YjE1OGRlMTM3MTE1MjQ4MmRkNjZjZDQzNmUxNmE2ZF8yXzE5OTFfMF8wXzA="
+        width="540" height="360" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"
+        vspace="0" hspace="0"></iframe>
+- :url: http://goalstv.net/?pg=game&code=86
+  :date: '2015-01-02'
+  :time: '20:30'
+  :home:
+    :name: Belenenses
+  :away:
+    :name: Academica
+  :stadium: Estádio do Restelo
+  :result: 0-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/eiaNhGv9BLk8zBYrwszN/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=85
+  :date: '2014-12-30'
+  :time: '21:15'
+  :home:
+    :name: SL Benfica
+  :away:
+    :name: Nacional
+  :stadium: Estádio da Luz
+  :result: 1-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/mfwQTInkPEI"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=84
+  :date: '2014-12-30'
+  :time: '19:15'
+  :home:
+    :name: Rio Ave
+  :away:
+    :name: FC Porto
+  :stadium: Estádio dos Arcos
+  :result: 0-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/6rJ4fWmvqGc"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=83
+  :date: '2014-12-29'
+  :time: '20:15'
+  :home:
+    :name: V. Guimarães
+  :away:
+    :name: Sporting CP
+  :stadium: Estádio D. Afonso Henriques
+  :result: 0-2
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/ruLR79789VQ"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=82
+  :date: '2014-12-28'
+  :time: '19:15'
+  :home:
+    :name: Boavista
+  :away:
+    :name: Belenenses
+  :stadium: Estádio do Bessa - Século XXI
+  :result: 0-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/u4Dq1JTzMuE"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=79
+  :date: '2014-12-28'
+  :time: '16:00'
+  :home:
+    :name: Moreirense
+  :away:
+    :name: Arouca
+  :stadium: Parque de Jogos Comendador Joaquim de Almeida Freitas
+  :result: 2-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: ''
+- :url: http://goalstv.net/?pg=game&code=80
+  :date: '2014-12-28'
+  :time: '16:00'
+  :home:
+    :name: Estoril
+  :away:
+    :name: Marítimo
+  :stadium: Estádio António Coimbra da Mota
+  :result: 1-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: ''
+- :url: http://goalstv.net/?pg=game&code=81
+  :date: '2014-12-28'
+  :time: '16:00'
+  :home:
+    :name: U. Madeira
+  :away:
+    :name: Braga
+  :stadium: Complexo Desportivo da Madeira
+  :result: 2-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/QEt040apsdo"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=78
+  :date: '2014-12-28'
+  :time: '15:00'
+  :home:
+    :name: Covilha
+  :away:
+    :name: Gil Vicente
+  :stadium: Estádio José Santos Pinto
+  :result: 2-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe width="540" height="360" src="//www.youtube.com/embed/-fDjMkwNBAc"
+        frameborder="0" allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=65
+  :date: '2014-12-22'
+  :time: '21:00'
+  :home:
+    :name: Rio Ave
+  :away:
+    :name: Belenenses
+  :stadium: Estádio dos Arcos
+  :result: 0-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/0KEuEbIqrMsvgU2yqnRm/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=64
+  :date: '2014-12-22'
+  :time: '19:00'
+  :home:
+    :name: Braga
+  :away:
+    :name: Paços de Ferreira
+  :stadium: Estádio Municipal de Braga - Axa
+  :result: 3-0
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/jRb9q5fQp1yBTVEIGidd/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
+- :url: http://goalstv.net/?pg=game&code=63
+  :date: '2014-12-21'
+  :time: '19:15'
+  :home:
+    :name: Nacional
+  :away:
+    :name: Sporting CP
+  :stadium: Estádio da Choupana
+  :result: 0-1
+  :highlight_video:
+    :type: sapo
+    :data:
+      :html: <iframe src="http://rd3.videos.sapo.pt/playhtml?file=http://rd3.videos.sapo.pt/SkNcInKUwZUqOs9CmZLZ/mov/1"
+        frameborder="0" scrolling="no" width="540" height="360" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen></iframe>
