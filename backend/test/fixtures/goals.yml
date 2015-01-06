@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  result: MyString
+  match: 
+  scorer: MyString
+  minute: MyString
+  own_goal: false
+  penalty: false
+
+two:
+  result: MyString
+  match: 
+  scorer: MyString
+  minute: MyString
+  own_goal: false
+  penalty: false
